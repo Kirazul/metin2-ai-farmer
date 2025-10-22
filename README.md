@@ -204,16 +204,6 @@ This bot is for **educational purposes only**. Using automation tools may violat
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest new features
-- Submit pull requests
-- Share your trained models for different servers
-
----
-
 ## 📝 License
 
 This project is open source and available under the MIT License.

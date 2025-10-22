@@ -1,4 +1,4 @@
-# 🎮 Metin2 Farming Bot
+# Metin2 Farming Bot
 
 An advanced AI-powered farming bot for Metin2, primarily designed for **Origins2** server but adaptable to any Metin2 server. Uses YOLOv8 deep learning for intelligent metin stone detection and automated farming.
 

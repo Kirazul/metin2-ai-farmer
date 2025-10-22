@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(del \"C:\\Users\\KIRA\\Desktop\\metin2bot\\README.md\" \"C:\\Users\\KIRA\\Desktop\\metin2bot\\DEBUG_GUIDE.md\" \"C:\\Users\\KIRA\\Desktop\\metin2bot\\QUICK_REFERENCE.md\" \"C:\\Users\\KIRA\\Desktop\\metin2bot\\FIXES_APPLIED.md\" \"C:\\Users\\KIRA\\Desktop\\metin2bot\\BACKGROUND_VERSION_README.md\" \"C:\\Users\\KIRA\\Desktop\\metin2bot\\start_bot.bat\")",
+      "Bash(rm \"C:\\Users\\KIRA\\Desktop\\metin2bot\\README.md\" \"C:\\Users\\KIRA\\Desktop\\metin2bot\\DEBUG_GUIDE.md\" \"C:\\Users\\KIRA\\Desktop\\metin2bot\\QUICK_REFERENCE.md\" \"C:\\Users\\KIRA\\Desktop\\metin2bot\\FIXES_APPLIED.md\" \"C:\\Users\\KIRA\\Desktop\\metin2bot\\BACKGROUND_VERSION_README.md\" \"C:\\Users\\KIRA\\Desktop\\metin2bot\\start_bot.bat\")",
+      "Bash(python -m py_compile metin2_farm_bot.py)",
+      "Bash(python3 -m py_compile metin2_farm_bot.py)",
+      "Bash(py -m py_compile metin2_farm_bot.py)",
+      "Bash(python -m py_compile \"C:\\Users\\KIRA\\Desktop\\metin2bot 2\\metin2_farm_bot.py\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

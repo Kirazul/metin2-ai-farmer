@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+numpy
+Pillow
+pynput
+pywin32
+customtkinter

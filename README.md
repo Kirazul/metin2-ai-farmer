@@ -144,14 +144,13 @@ Or simply double-click `run_bot.bat`
 
 While optimized for **Origins2**, this bot can be adapted to any Metin2 server:
 
-1. **Retrain the YOLO Model** - Capture screenshots from your server and train a new model
-2. **Update Template Images** - Replace images in the `Images/` folder with your server's UI elements:
+1. **Update Template Images** - Replace images in the `Images/` folder with your server's UI elements:
    - `selectedmetin.png` - Selected metin indicator
    - `falsemetin.png` - False metin indicator
    - `target.png` - Target lock indicator
    - `FullhpMetin.png` - Full HP metin indicator
-3. **Adjust Confidence Thresholds** - Fine-tune detection settings for your server's graphics
-4. **Modify Timing** - Adjust delays based on your server's response times
+2. **Adjust Confidence Thresholds** - Fine-tune detection settings for your server's graphics
+3. **Modify Timing** - Adjust delays based on your server's response times
 
 ---
 
